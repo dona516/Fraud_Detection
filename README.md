@@ -25,11 +25,16 @@ Various Machine Learning models
 
 Contributors
 This project was a collaborative effort. 
+
 Contributors include:
 
 ALWIN KANNYAKONIL SCARIA
+
 DONA BIJU
+
 JERIN THENGUMPALLIL THOMAS
+
 MOHAMED AFTAB
+
 SNEHA SUJATHA
 
