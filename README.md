@@ -1,40 +1,40 @@
-INTRODUCTION
+# Online Payments Fraud Detection Dataset
 
-The "Online payments Fraud Detection Dataset" was chosen with the intention of creating a reliable system for identifying fraudulent activity related to online payments.
+This dataset was selected to facilitate the development of a robust system for identifying fraudulent activities associated with online payments.
 
-Project Outcome: 
-To provide a dataset appropriate for machine learning algorithms, the intended result is a fraud detection model that makes use of Label encoding for categorical characteristics. With greater precision and efficiency, the model should be able to detect fraudulent transactions.
+## Project Outcome
 
-DATA SOURCE
-Kaggle: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
+The primary goal of this project is to provide a dataset suitable for training machine learning algorithms aimed at detecting fraudulent transactions. The approach involves employing Label encoding for categorical features to enhance the precision and efficiency of the fraud detection model.
 
-Methodology
-•	Data Preprocessing
-•	Data Visualization
-•	Feature Engineering
-•	Feature Scaling and Transformation
-•	Model Selection and Creation
-•	Model Evaluation
+## Data Source
 
-Tools Used
-The analysis was conducted using various tools and technologies, including:
+The dataset utilized in this project is sourced from Kaggle: [Online Payments Fraud Detection Dataset](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset)
 
-Python programming language and various libraries
-Google Colab/Jupyter Notebook
-Various Machine Learning models
+## Methodology
 
-Contributors
-This project was a collaborative effort. 
+The project methodology encompasses the following steps:
 
-Contributors include:
+- Data Preprocessing
+- Data Visualization
+- Feature Engineering
+- Feature Scaling and Transformation
+- Model Selection and Creation
+- Model Evaluation
 
-ALWIN KANNYAKONIL SCARIA
+## Tools Used
 
-DONA BIJU
+The analysis was conducted using the following tools and technologies:
 
-JERIN THENGUMPALLIL THOMAS
+- Python programming language and various libraries
+- Google Colab/Jupyter Notebook
+- Various Machine Learning models
 
-MOHAMED AFTAB
+## Contributors
 
-SNEHA SUJATHA
+This project was made possible through collaborative efforts. The contributors include:
 
+- Alwin Kannyakonil Scaria
+- Dona Biju
+- Jerin Thengumpallil Thomas
+- Mohamed Aftab
+- Sneha Sujatha
